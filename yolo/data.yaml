@@ -1,0 +1,8 @@
+path: /Users/shenxianao/Documents/Pycharm/YOLOv7 test/model
+train: /Users/shenxianao/Documents/Pycharm/YOLOv7 test/model/train/images
+val: /Users/shenxianao/Documents/Pycharm/YOLOv7 test/model/valid/images
+test: /Users/shenxianao/Documents/Pycharm/YOLOv7 test/model/test/images
+
+nc: 3
+names: ['fire', 'human', 'smoke']
+
