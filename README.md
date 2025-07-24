@@ -1,4 +1,4 @@
-## Fire, smoke, and human recognition based on the YOLO model
+## Fire, smoke, and human recognition based on the YOLO model 🔥 🌫️
 
 ## Introduction
 This project can be used to detect smoke, flames, and people, or further optimized based on this model.
