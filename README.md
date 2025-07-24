@@ -3,7 +3,7 @@
 ## Introduction
 This project can be used to detect smoke, flames, and people, or further optimized based on this model.
 
-## Qucik Start
+## Get Started
 - Open "0723/test.py"
 - Check if the file path for “best.pt” is correct. The path is usually located in “runs/detect/train/weights/”.
 - Check the file path of the test file. There are videos and images in the “test set” that can be used for testing. You can also use your own images or videos for testing.
@@ -12,7 +12,7 @@ This project can be used to detect smoke, flames, and people, or further optimiz
 ### Prerequisites
 - Python 3.8+
 - Install the Ultralytics YOLO library ———— You can learn how to install it on the official website（https://docs.ultralytics.com/zh/quickstart/）
-- Install Pytorch
+- Install Pytorch ```pip3 install torch torchvision torchaudio``` （URL：https://pytorch.org/get-started/locally/）
   
 ### Data set
 - For image data, you can use your own annotated data for training. The data source we used is roboflow (URL: https://universe.roboflow.com/yolo-training-8hmw2/fire-person-dataset).
