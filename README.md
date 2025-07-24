@@ -11,8 +11,8 @@ This project can be used to detect smoke, flames, and people, or further optimiz
 
 ### Prerequisites
 - Python 3.8+
-- Install the Ultralytics YOLO library ———— You can learn how to install it on the official website（https://docs.ultralytics.com/zh/quickstart/）
-- Install Pytorch ```pip3 install torch torchvision torchaudio``` （URL：https://pytorch.org/get-started/locally/）
+- Install the Ultralytics YOLO library ———— You can learn how to install it on the official website（ https://docs.ultralytics.com/zh/quickstart/ ）
+- Install Pytorch： ```pip3 install torch torchvision torchaudio``` （ URL：https://pytorch.org/get-started/locally/ ）
   
 ### Data set
 - For image data, you can use your own annotated data for training. The data source we used is roboflow (URL: https://universe.roboflow.com/yolo-training-8hmw2/fire-person-dataset).
