@@ -26,7 +26,7 @@ This project can be used to detect smoke, flames, and people, or further optimiz
 
 |![val_batch1_labels](https://github.com/user-attachments/assets/71546def-b7b2-437a-a036-12227296d90a) | ![val_batch1_pred](https://github.com/user-attachments/assets/85a4c49b-5969-4934-9dec-478662555a18)|
 |-----------------------------|-----------------------------|
-
+###### <div style="text-align: center;">Actual VS Predicted</div>
 
 ### Hint
 - When training on your own, you need to modify the data and file paths in the “data.yaml” file.
