@@ -4,7 +4,7 @@
 This project can be used to detect smoke, flames, and people, or further optimized based on this model.
 
 |![train_batch0](https://github.com/user-attachments/assets/6a16bd4e-f9cd-4b45-8f88-4e231f4f29cf) |
-|-----------------------------|-----------------------------|
+|-----------------------------|
 
 
 ## Get Started
