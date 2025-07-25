@@ -3,7 +3,7 @@
 ## Introduction
 This project can be used to detect smoke, flames, and people, or further optimized based on this model.
 
-![val_batch1_labels](https://github.com/user-attachments/assets/c7bbb5ac-d7dd-4833-bcb9-4b5428664cde)
+<img src="![val_batch1_labels](https://github.com/user-attachments/assets/c7bbb5ac-d7dd-4833-bcb9-4b5428664cde)" width="300">
 
 ## Get Started
 - Open "0723/test.py"
