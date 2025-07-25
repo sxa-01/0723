@@ -3,7 +3,7 @@
 ## Introduction
 This project can be used to detect smoke, flames, and people, or further optimized based on this model.
 
-<img src="![val_batch1_labels](https://github.com/user-attachments/assets/c7bbb5ac-d7dd-4833-bcb9-4b5428664cde)" width="300">
+![val_batch1_labels](https://github.com/user-attachments/assets/c7bbb5ac-d7dd-4833-bcb9-4b5428664cde
 
 ## Get Started
 - Open "0723/test.py"
@@ -22,9 +22,10 @@ This project can be used to detect smoke, flames, and people, or further optimiz
 - Through inspection and training, this dataset has some errors in data annotation, and there may be omissions in the annotation, which may affect the model's learning.
 - After training the model, it was found that there were significant differences in the number of training samples for flames, smoke, and people, with fewer samples for people than for fire and smoke.
 
-![val_batch1_labels](https://github.com/user-attachments/assets/71546def-b7b2-437a-a036-12227296d90a)
+|![val_batch1_labels](https://github.com/user-attachments/assets/71546def-b7b2-437a-a036-12227296d90a) | ![val_batch1_pred](https://github.com/user-attachments/assets/85a4c49b-5969-4934-9dec-478662555a18)|
+|-----------------------------|-----------------------------|
 
-![val_batch1_pred](https://github.com/user-attachments/assets/85a4c49b-5969-4934-9dec-478662555a18)
+
 
 
 ### Hint
